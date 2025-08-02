@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50">
-  <text x="10" y="30" font-family="serif" font-size="20" fill="black">
-    ∇ × B = μ₀J + μ₀ε₀∂E/∂t
-  </text>
-</svg>
