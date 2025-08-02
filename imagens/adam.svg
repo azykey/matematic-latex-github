@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <text x="10" y="30" font-family="serif" font-size="18" fill="black">
+    m_t = β₁·m_{t-1} + (1-β₁)·g_t
+  </text>
+  <text x="10" y="60" font-family="serif" font-size="18" fill="black">
+    v_t = β₂·v_{t-1} + (1-β₂)·g_t²
+  </text>
+</svg>

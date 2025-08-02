@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="50" viewBox="0 0 450 50">
+  <text x="10" y="30" font-family="serif" font-size="18" fill="black">
+    Q(s,a) = Q(s,a) + α[R + γ max_{a'} Q(s',a') - Q(s,a)]
+  </text>
+</svg>

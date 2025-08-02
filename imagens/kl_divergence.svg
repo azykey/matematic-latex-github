@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50" viewBox="0 0 300 50">
+  <text x="10" y="30" font-family="serif" font-size="18" fill="black">
+    D_KL(P||Q) = ∑ P(x)log(P(x)/Q(x))
+  </text>
+</svg>

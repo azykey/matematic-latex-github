@@ -18,13 +18,61 @@ Bem-vindo ao repositório central de cálculos matemáticos e físicos. Este REA
   - [Fluxo e Divergência](./matematica/calculo/fluxo_divergencia.md)
 - [Topologia](./matematica/topologia/README.md)
 
+### 🧠 Inteligência Artificial
+- [Fundamentos Matemáticos de AGI](./agi.md)
+  - Sistemas de Percepção
+  - Sistemas de Memória
+  - Sistemas de Raciocínio
+  - Sistemas de Aprendizado
+  - Sistemas de Auto-Melhoria
+
 ## 🖼️ Equações Destacadas
 
 ### Lei de Faraday
-![Equação de Faraday](./imagens/faraday.png)
+![Equação de Faraday](./imagens/faraday.svg)
 
 ### Equação de Schrödinger
-![Equação de Schrödinger](./imagens/schrodinger.png)
+![Equação de Schrödinger](./imagens/schrodinger.svg)
+
+### Mecanismo de Atenção (AGI)
+![Mecanismo de Atenção](./imagens/attention.svg)
+
+## Equações Fundamentais de AGI
+
+### Percepção
+![Convolução 2D](./imagens/convolution.svg)
+![Batch Normalization](./imagens/batchnorm.svg)
+![Mecanismo de Atenção](./imagens/attention.svg)
+
+### Memória
+![LSTM](./imagens/lstm.svg)
+![Hopfield Network](./imagens/hopfield.svg)
+
+### Raciocínio
+![Teorema de Bayes](./imagens/bayes.svg)
+![Inferência Causal](./imagens/causal.svg)
+![Inferência Variacional](./imagens/variational.svg)
+
+### Aprendizado
+![Gradient Descent](./imagens/gradient.svg)
+![Adam Optimizer](./imagens/adam.svg)
+![Q-Learning](./imagens/qlearning.svg)
+![Policy Gradient](./imagens/policy_gradient.svg)
+
+### Auto-Melhoria
+![Meta-Learning (MAML)](./imagens/maml.svg)
+![Neural Architecture Search](./imagens/nas.svg)
+
+### Integração de Sistemas
+![Entropia](./imagens/entropy.svg)
+![Mutual Information](./imagens/mutual_info.svg)
+
+### Métricas de Desempenho
+![Cross Entropy Loss](./imagens/cross_entropy.svg)
+![KL Divergence](./imagens/kl_divergence.svg)
+
+### Segurança e Verificação
+![Formal Verification](./imagens/verification.svg)
 
 ## 🔄 Atualização Automática
 
@@ -51,9 +99,16 @@ Este repositório utiliza GitHub Actions para atualizar automaticamente:
 
 ## 📅 Próximas Adições
 
+### Matemática e Física
 - [ ] Teoria de Grupos
 - [ ] Geometria Diferencial
 - [ ] Teoria de Cordas
+
+### Inteligência Artificial
+- [ ] Redes Neurais Profundas
+- [ ] Transformers e Modelos de Linguagem
+- [ ] Aprendizado por Reforço
+- [ ] Sistemas Multi-Agentes
 
 ---
 
